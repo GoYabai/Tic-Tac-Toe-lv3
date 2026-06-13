@@ -1,0 +1,23 @@
+# ninja log v7
+41	107	8020843498452222	C:/Project/level-3/build/CMakeFiles/cmake.verify_globs	e2097f54edece433
+60	661	8009865481385918	CMakeFiles/game.dir/src/interface/i_renderer.cpp.obj	177ae6337ca7c820
+52	683	8009865481331810	CMakeFiles/game.dir/src/core/parallel.cpp.obj	40272482e783320d
+56	700	8009865481369354	CMakeFiles/game.dir/src/interface/i_interaction.cpp.obj	c0fa502848951dc3
+48	3977	8010384943525441	CMakeFiles/game.dir/src/terminal/renderer.cpp.obj	ef8fefb581a0df5b
+83	1161	8009865481629728	CMakeFiles/game.dir/src/utils/config.cpp.obj	e53f3ced538c8806
+116	1542	8020843499193100	CMakeFiles/game.dir/src/core/bot_pure.cpp.obj	758010473aa144df
+61	1633	8010351836409235	CMakeFiles/game.dir/src/core/logic.cpp.obj	3f695f5fffb4474a
+55	922	8010373126180152	CMakeFiles/game.dir/src/main.cpp.obj	a88ed0394a538c8
+70	3351	8009865481509424	CMakeFiles/game.dir/src/shell/logger.cpp.obj	de9ca4eddef0a667
+58	1641	8010373126180152	CMakeFiles/game.dir/src/terminal/interaction.cpp.obj	bc6048a0cb95d875
+52	2514	8010873221118820	CMakeFiles/game.dir/src/shell/engine.cpp.obj	8d4bee13169d775e
+1543	1911	8020843513469300	game.exe	60039785fac68f79
+33	99	8020889629744949	C:/Project/level-3/build/CMakeFiles/cmake.verify_globs	e2097f54edece433
+115	1023	8020889630652149	CMakeFiles/game.dir/src/interface/i_renderer.cpp.obj	177ae6337ca7c820
+108	1050	8020889630544208	CMakeFiles/game.dir/src/interface/i_interaction.cpp.obj	c0fa502848951dc3
+181	1577	8020889631351182	CMakeFiles/game.dir/src/utils/config.cpp.obj	e53f3ced538c8806
+121	2153	8020889630735621	CMakeFiles/game.dir/src/main.cpp.obj	a88ed0394a538c8
+149	2336	8020889630996029	CMakeFiles/game.dir/src/terminal/interaction.cpp.obj	bc6048a0cb95d875
+164	5698	8020889631154035	CMakeFiles/game.dir/src/terminal/renderer.cpp.obj	ef8fefb581a0df5b
+133	6123	8020889630839301	CMakeFiles/game.dir/src/shell/engine.cpp.obj	8d4bee13169d775e
+6124	6663	8020889690760107	game.exe	60039785fac68f79
